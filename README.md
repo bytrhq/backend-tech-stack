@@ -21,5 +21,5 @@ This document provides a curated list of resources to help you learn and master 
   
 ### Advanced Node.js
    Deep dive into advanced topics like streams, buffers, and clustering in Node.js. Ideal for those looking to optimize performance and scalability.
-    - **[Advanced Node.js](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)**
-    - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)**
+   - **[Advanced Node.js](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)**
+   - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)**
