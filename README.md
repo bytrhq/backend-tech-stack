@@ -16,10 +16,10 @@ This document provides a curated list of resources to help you learn and master 
 
 ### Introduction to Node.js
    A comprehensive guide to getting started with Node.js, covering its asynchronous nature, event-driven architecture, and use cases.
-    - **[The Node Beginner Book](https://www.nodebeginner.org/)**: A beginner-friendly introduction to Node.js.
-    - **[Node.js Crash Course](https://www.youtube.com/watch?v=32M1al-Y6Ag)**: A video tutorial covering the basics of Node.js.
+   - **[The Node Beginner Book](https://www.nodebeginner.org/)**
+   - **[Node.js Crash Course](https://www.youtube.com/watch?v=32M1al-Y6Ag)**
   
 ### Advanced Node.js
    Deep dive into advanced topics like streams, buffers, and clustering in Node.js. Ideal for those looking to optimize performance and scalability.
-    - **[Advanced Node.js](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)**: Deep dive into advanced topics like streams, buffers, and clustering.
-    - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)**: Learn about design patterns in Node.js to write more maintainable and scalable code.
+    - **[Advanced Node.js](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)**
+    - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)**
