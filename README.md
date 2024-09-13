@@ -1,4 +1,5 @@
 
+![backend-tech-stack](https://github.com/user-attachments/assets/7ae3164b-1bc5-42bc-837e-a78a06cff6eb)
 # Backend Tech Stack Resources
 
 This document provides a curated list of resources to help you learn and master various backend technologies. It covers topics from Node.js and databases to API development, security, DevOps, and serverless architecture.
